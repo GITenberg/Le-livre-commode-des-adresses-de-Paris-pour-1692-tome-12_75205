@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/%C3%89douard_Fournier
     - https://en.wikipedia.org/wiki/%C3%89douard_Fournier
+covers:
+- cover_type: archival
+  image_path: 75205-h/images/cover.jpg
 creator:
   author:
     agent_name: Blégny, Monsieur de (Nicolas)
@@ -30,6 +33,8 @@ creator:
     - https://en.wikipedia.org/wiki/Nicolas_de_Bl%C3%A9gny
     - https://fr.wikipedia.org/wiki/Nicolas_de_Bl%C3%A9gny
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75205#Le-livre-commode-des-adresses-de-Paris-pour-1692-tome-12
 gutenberg_issued: '2025-01-25'
 gutenberg_type: Text
 identifiers:
